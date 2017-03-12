@@ -1,0 +1,15 @@
+命令稿啟動於 2017年03月12日 (週日) 15時25分22秒
+]0;yui@yui-VirtualBox: ~[01;32myui@yui-VirtualBox[00m:[01;34m~[00m$ whoami; pwd
+yui
+/home/yui
+]0;yui@yui-VirtualBox: ~[01;32myui@yui-VirtualBox[00m:[01;34m~[00m$ git config -l
+user.email=iyoy55555@gmail.com
+user.name=iyoy55555
+]0;yui@yui-VirtualBox: ~[01;32myui@yui-VirtualBox[00m:[01;34m~[00m$ git xh[K[Kclone heep[K[K[Krr[K[Kttps://github.com/iyoy55555/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;yui@yui-VirtualBox: ~[01;32myui@yui-VirtualBox[00m:[01;34m~[00m$ exit
+
+命令稿已於 2017年03月12日 (週日) 15時27分21秒
+ 完成
